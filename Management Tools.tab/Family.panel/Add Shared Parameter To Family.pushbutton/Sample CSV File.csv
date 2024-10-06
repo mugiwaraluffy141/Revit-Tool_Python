@@ -1,0 +1,4 @@
+Shared Parameter Name,Parameter Group,BIP Name,Instance
+Test_Length,Dimensions,PG_GEOMETRY,No
+Test_Number,Other,INVALID,Yes
+Test_Text,Text,PG_TEXT,No
